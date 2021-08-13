@@ -1,7 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const ResultsList = () => {};
+const ResultsList = () => {
+    
+};
 
 ResultsList.propTypes = { className: PropTypes.string };
 
